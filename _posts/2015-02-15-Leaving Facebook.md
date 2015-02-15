@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example post
+title: Leaving Facebook
 cover: cover.jpg
 date:   2015-02-15 12:00:00
 categories: posts

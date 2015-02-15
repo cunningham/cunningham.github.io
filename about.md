@@ -1,15 +1,12 @@
 ---
 layout: post
-title: Example post
-cover: cover.jpg
+title: About
+cover: 
 date:   2015-02-15 12:00:00
 categories: posts
 ---
 
-## Leaving Facebook
+## About this website
 
-This is where I would post stuff.
+I left Facebook in February of 2015 and this is going to be my new home on the internet.  If you want to see something closer to a news feed of likely worthless information, I recommend <a href="https://twitter.com/nickscupofwords">Twitter</a>.
 
-## Another heading
-
-This is another line that I would write to explain the second heading.
