@@ -1,2 +1,2 @@
 # cunningham.github.io
-Github pages repo
+This is the repo that populates my Jekyll powered Github pages site.
