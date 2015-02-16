@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About
-cover: 
+cover: cover.jpg
 date:   2015-02-15 12:00:00
 categories: posts
 ---
