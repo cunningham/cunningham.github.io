@@ -54,7 +54,7 @@ Once I got my activity removed, I had to go through and get rid of some stuff ma
 I also went through and removed most of my info from Facebook(at least as much as they let me.).  My birthday is now January 1st, 1900, I have no hometown, and I don't work.  It was really satisfying to keep returning to the Facebook home page and seeing, "Nicholas, your profile is 85% complete.", followed by, "Nicholas, your profile is only 50% complete.".
 
 ###Unfollow all the things
-I couldn't find an automatic way to unfollow people, but once I was done, I got this beautiful shot of my news feed: ![no posts!](https://s3.amazonaws.com/f.cl.ly/items/3B2o1p283y270k050y0Z/noposts.png "Find friends?  Not here I won't!")
+I couldn't find an automatic way to unfollow people, but once I was done, I got [this](https://s3.amazonaws.com/f.cl.ly/items/3B2o1p283y270k050y0Z/noposts.png) beautiful shot of my news feed so I got that going for me, which is nice.
 
 
 ##Conclusion
