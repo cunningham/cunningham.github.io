@@ -1,3 +1,0 @@
-$(function() {
-  makeASweetVoronoiTesselation('#voronoi')
-})
