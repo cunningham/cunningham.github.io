@@ -33,11 +33,11 @@ Facebook Platform is that thing that lets you log in using your Facebook account
 
 Basically, removing Applications access has ramifications other than having to set up a new account.  I'll update the list below as I find more things.
 
-| App/Service | |
-| | |
-| Spotify | Most all playlists disappeared.  Subscription settings gone.  **Update 2015/02/15** Along with my Spotify Unlimited subscription which has since been discontinued.  Shit.) **Update 2015/02/17** Alright, figured it out.  I had two Spotify accounts.  The Facebook one is still kicking with my wonderful $5/month Spotify subscription.  No way to move it over so I'm stuck with having a Facebook account until I'm fine getting rid of that. |
-| Instagram | Seems to be for the most part unaffected, but I assume Facebook may have some voodoo keeping that connection alive.  I may have to remove that account and make a new one w/o Facebook.  |
-| Misc. iOS | Most of the other apps I use are iOS apps that I used Facebook sign in for because I didn't have 1Password handy.  The few I still use just don't work at all and want me to sign up for a new account.|
+**Spotify**: Most all playlists disappeared.  Subscription settings gone.  **Update 2015/02/15** Along with my Spotify Unlimited subscription which has since been discontinued.  Shit. **Update 2015/02/17** Alright, figured it out.  I had two Spotify accounts.  The Facebook one is still kicking with my wonderful $5/month Spotify subscription.  No way to move it over so I'm stuck with having a Facebook account until I'm fine getting rid of that.
+
+**Instagram** Seems to be for the most part unaffected, but I assume Facebook may have some voodoo keeping that connection alive.  I may have to remove that account and make a new one w/o Facebook.
+
+**Misc. iOS** Most of the other apps I use are iOS apps that I used Facebook sign in for because I didn't have 1Password handy.  The few I still use just don't work at all and want me to sign up for a new account.
 
 
 ##Tearing it down
