@@ -2,9 +2,18 @@
 layout: post
 title: Leaving Facebook
 cover: cover.jpg
-date:   2015-02-13 12:00:00
+date:   2018-01-01 12:00:00
 categories: posts
 ---
+##Update 2018/01/01
+
+It's been almost three years and I don't miss it.  In the time that I've been gone Facebook has been in the news a lot, and mostly for less than great reasons.  I won't get in to anything specific so as to not terribly date this blog, but I'd recommend listening to [this podcast](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwixyKnsvLjYAhUQ42MKHZG5AZkQFggpMAA&url=https%3A%2F%2Fgimletmedia.com%2Fepisode%2F109-facebook-spying%2F&usg=AOvVaw0G1Ekg8p_DWLbD2jE3knCH) to get an idea of how Facebook learns things about you.
+
+And install [Ghostery](https://www.ghostery.com/).
+
+I still use Instagram and have had to re-activate my Facebook account a couple times for various restaurants and other businesses that only have a presence there, but I've now made the change of fully deleting my Facebook account to see if that makes a difference.  As per the [delete account page](https://www.facebook.com/help/delete_account), my account will be deactivated for 14 days before being properly deleted(despite having been deactivated for quite some time before this.  Ugh) so I'll have to wait til then to see if Instagram gives up.
+
+
 
 ## "Leaving" Facebook
 
