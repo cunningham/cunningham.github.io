@@ -14,6 +14,8 @@ And install [Ghostery](https://www.ghostery.com/).
 I still use Instagram and have had to re-activate my Facebook account a couple times for various restaurants and other businesses that only have a presence there, but I've now made the change of fully deleting my Facebook account to see if that makes a difference.  As per the [delete account page](https://www.facebook.com/help/delete_account), my account will be deactivated for 14 days before being properly deleted(despite having been deactivated for quite some time before this.  Ugh) so I'll have to wait til then to see if Instagram gives up.
 
 
+## Original Post from Feb 13, 2015 below:
+
 
 ## "Leaving" Facebook
 
