@@ -2,8 +2,16 @@
 layout: post
 title: Leaving Facebook
 cover: cover.jpg
-date:   2018-01-01 12:00:00
+date:   2019-01-02 12:00:00
 categories: posts
+---
+## Update 2019/01/02
+
+Little late on the update this year, but boy howdy has Facebook really upped the anty on fucking up this year.  I deleted my account last year and didn't even notice.
+
+I'm still a hold out on Instagram.  Not sure what to replace that with.  Maybe the 2020 update will have some news for you.
+
+
 ---
 ## Update 2018/01/01
 
